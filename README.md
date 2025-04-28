@@ -7,7 +7,6 @@ Thank you ❤️ for visiting my profile. Your presence is greatly appreciated.
     <img src="https://github-profile-trophy.vercel.app/?username=arvinddhage&theme=dark&no-frame=true&rank=beginner" alt="arvinddhage"/>
   </a>
 </p>
-
 - ## 💫 About Me:
 🔭 I'm currently building an impactful social media platform that connects people and empowers them with meaningful interactions, fostering growth, collaboration, and knowledge sharing.<br>
 🚧 Actively seeking collaboration opportunities on MERN stack projects, real-time applications, AI-integrated solutions, and contributions to open-source initiatives.<br>
@@ -30,10 +29,11 @@ Thank you ❤️ for visiting my profile. Your presence is greatly appreciated.
 
 
 ---
-
 ## 📊 GitHub Stats:
-https://github-readme-stats.vercel.app/api?username=kishorsamruddhi&show_icons=true&hide_title=true&count_private=true
-https://github-readme-stats.vercel.app/api/top-langs/?username=kishorsamruddhi&layout=compact&hide_title=true
-https://github-readme-streak-stats.herokuapp.com/?user=kishorsamruddhi&theme=radical
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kishorsamruddhi&show_icons=true&hide_title=true&count_private=true)
 
+## 🌍 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kishorsamruddhi&layout=compact&hide_title=true)\
 
+## 🔥 GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kishorsamruddhi&theme=radical)
