@@ -1,34 +1,17 @@
-<h2 align="center"> 
-  Hi, 
-  <br>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60px">
-  <br>
-  Thank you ❤️ for visiting my profile. Your presence is greatly appreciated.
-  <br>
-  <br>
-  <p align="center">
-    <img src="https://profile-counter.glitch.me/emondaslearner/count.svg" border="0" title="Profile visitor counter" alt="free hit counter">
-  </p>
-</h2>
+### Hi, I'm Samruddhi Bhamburkar, a Full Stack Developer 🖥️
 
----
+I specialize in MERN stack technologies, creating efficient and scalable solutions. With each project, I focus on building clean, maintainable code and delivering value through seamless user experiences.
 
-### Welcome! It's great to have you here 😊 I hope you're doing well.
-
-### I am Samruddhi Bhamburkar, a `Full Stack Developer` 🖥️🖥️🖥️🖥️
-
-Delving deep into the world of MERN technology, I dance between crafting beautiful designs and building sturdy code. With each project, I breathe life into digital creations that warmly greet the world, saying, **"Hello World! I've poured my heart into making something special just for you."** 😌
-
-Sipping coffee, I love chatting about tech stuff with anyone interested. I'm all about sharing what I know because even tiny tips can lead to big ideas. **Let's grab a cup and dive into some tech talk!**
+I’m passionate about learning and sharing knowledge. Whether it’s discussing tech, collaborating on open-source projects, or solving real-world challenges, I believe that every conversation has the potential to spark something great.
 
 ---
 
 ### 💫 About Me:
-- 🔭 I’m currently working on a learning platform that includes courses, articles, interview experiences, a compiler, a real-time code editor, and AI-mock tests.
-- 🚧 I’m looking to collaborate on MERN stack projects, real-time applications, AI-integrated tools, and open-source contributions.
-- 🤝 I’m looking for help with scaling applications, improving AI-based features, and optimizing database performance.
-- 🌱 I’m currently learning advanced AI integration, system design, and real-time communication with WebSockets.
-- 💬 Ask me about MERN stack, Next.js, AI-driven applications, real-time collaboration, and interview preparation.
+- 🔭 Currently working on a learning platform featuring courses, articles, interview experiences, a compiler, real-time code editor, and AI-mock tests.
+- 🚧 Open to collaborating on MERN stack projects, real-time applications, AI-integrated tools, and open-source contributions.
+- 🤝 Seeking help with scaling applications, enhancing AI-based features, and optimizing database performance.
+- 🌱 Focused on learning advanced AI integration, system design, and real-time communication with WebSockets.
+- 💬 Feel free to ask about MERN stack, Next.js, AI-driven applications, real-time collaboration, and interview preparation.
 - ⚡ Fun fact: I’ve solved over 500 problems on LeetCode and built multiple full-stack projects!
 
 ---
@@ -95,6 +78,3 @@ Sipping coffee, I love chatting about tech stuff with anyone interested. I'm all
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kishorsamruddhi&" alt="kishorsamruddhi"/>
 </p>
-
----
-
