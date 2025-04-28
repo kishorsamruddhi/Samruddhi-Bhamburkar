@@ -6,11 +6,11 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arvinddhage" alt="arvinddhage" /></a> </p>
 
 - ## 💫 About Me:
-🔭 I'm currently building an impactful social media platform that connects people and empowers them with meaningful interactions, fostering growth, collaboration, and knowledge sharing.
-🚧 Actively seeking collaboration opportunities on MERN stack projects, real-time applications, AI-integrated solutions, and contributions to open-source initiatives.
-🤝 Looking for assistance in scaling applications, enhancing AI features, and optimizing database performance for better efficiency.
-🌱 Currently delving into advanced AI integration, system design principles, and real-time communication with WebSockets to stay ahead of emerging tech.
-💬 Feel free to ask me about MERN stack, Next.js, AI-driven solutions, real-time collaboration, or interview strategies.
+🔭 I'm currently building an impactful social media platform that connects people and empowers them with meaningful interactions, fostering growth, collaboration, and knowledge sharing.<br>
+🚧 Actively seeking collaboration opportunities on MERN stack projects, real-time applications, AI-integrated solutions, and contributions to open-source initiatives.<br>
+🤝 Looking for assistance in scaling applications, enhancing AI features, and optimizing database performance for better efficiency.<br>
+🌱 Currently delving into advanced AI integration, system design principles, and real-time communication with WebSockets to stay ahead of emerging tech.<br>
+💬 Feel free to ask me about MERN stack, Next.js, AI-driven solutions, real-time collaboration, or interview strategies.<br>
 ⚡ Fun fact: I've solved over 150 problems on LeetCode and built a variety of full-stack projects that focus on solving real-world challenges!
 
 
