@@ -1,14 +1,12 @@
 <h1 align="center">Hi 👋, I'm Samruddhi Bhamburkar</h1>
 <h3 align="center">Full-Stack Developer</h3>
-
+Thank you ❤️ for visiting my profile. Your presence is greatly appreciated.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arvinddhage&label=Profile%20views&color=0e75b6&style=flat" alt="arvinddhage" /> </p>
-
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=arvinddhage&theme=dark&no-frame=true&rank=beginner" alt="arvinddhage"/>
   </a>
 </p>
-
 
 - ## 💫 About Me:
 🔭 I'm currently building an impactful social media platform that connects people and empowers them with meaningful interactions, fostering growth, collaboration, and knowledge sharing.<br>
@@ -34,32 +32,8 @@
 ---
 
 ## 📊 GitHub Stats:
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_title=true&count_private=true)](https://github.com/YOUR_GITHUB_USERNAME)
-
-## 🌍 Top Languages
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_title=true)](https://github.com/YOUR_GITHUB_USERNAME)
-
-## 🔥 GitHub Streak
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical)](https://github.com/YOUR_GITHUB_USERNAME)
-
-## 📊 GitHub Activity Graph
-
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=YOUR_GITHUB_USERNAME&theme=github)](https://github.com/YOUR_GITHUB_USERNAME)
-
-## 🏆 Commit Graph
-
-[![GitHub Commit Graph](https://github-readme-activity-graph.cyclic.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=ffffff&color=333333&line=000000&point=ff0000)](https://github.com/YOUR_GITHUB_USERNAME)
-
-## 👀 Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME)
+https://github-readme-stats.vercel.app/api?username=kishorsamruddhi&show_icons=true&hide_title=true&count_private=true
+https://github-readme-stats.vercel.app/api/top-langs/?username=kishorsamruddhi&layout=compact&hide_title=true
+https://github-readme-streak-stats.herokuapp.com/?user=kishorsamruddhi&theme=radical
 
 
----
-
-[![](https://visitcount.itsvg.in/api?id=samruddhi-bhamburkar&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
