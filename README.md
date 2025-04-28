@@ -1,3 +1,26 @@
+<h2 align="center"> 
+  Hi, 
+  <br>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60px">
+  <br>
+  Thank you ❤️ for visiting my profile. Your presence is greatly appreciated.
+  <br>
+  <br>
+  <p align="center">
+  <img src="https://profile-counter.glitch.me/emondaslearner/count.svg" border="0" title="Profile visitor counter" alt="free hit counter">
+  </p>
+</h2>
+
+Welcome! It's great to have you here 😊 I hope you're doing well.
+
+### I am Samruddhi Bhamburkar. I am a `Full Stack Developer` 🖥️🖥️🖥️🖥️
+
+Delving deep into the world of MERN technology, I dance between crafting beautiful designs and building sturdy code. With each project, I breathe life into digital creations that warmly greet the world, saying, **"Hello World! I've poured my heart into making something special just for you."** 😌
+
+Sipping coffee, I love chatting about tech stuff with anyone interested. I'm all about sharing what I know because even tiny tips can lead to big ideas. **Let's grab a cup and dive into some tech talk!**
+
+If you're interested in connecting and having a discussion with me, I'm always ready to chat! Let's connect 🗨️🗨️🗨️.
+
 <h1 align="center">Hello there 👋, I'm Samruddhi Bhamburkar</h1>
 <h3 align="center">Full-Stack Developer</h3>
 
