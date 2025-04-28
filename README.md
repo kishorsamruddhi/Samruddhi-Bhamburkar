@@ -1,10 +1,15 @@
 <h1 align="center">Hi 👋, I'm Samruddhi Bhamburkar</h1>
 <h3 align="center">Full-Stack Developer</h3>
-Thank you ❤️ for visiting my profile. Your presence is greatly appreciated.
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arvinddhage&label=Profile%20views&color=0e75b6&style=flat" alt="arvinddhage" /> </p>
+
+<p align="center">Thank you ❤️ for visiting my profile. Your presence is greatly appreciated.</p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=kishorsamruddhi&label=Profile%20views&color=0e75b6&style=flat" alt="kishorsamruddhi" />
+</p>
+
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=arvinddhage&theme=dark&no-frame=true&rank=beginner" alt="arvinddhage"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=kishorsamruddhi&theme=dark&no-frame=true&rank=beginner" alt="kishorsamruddhi"/>
   </a>
 </p>
 - ## 💫 About Me:
