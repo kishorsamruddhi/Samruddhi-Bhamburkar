@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=kishorsamruddhi&theme=dark&no-frame=true&rank=advanced&column=7" alt="kishorsamruddhi"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=kishorsamruddhi" alt="kishorsamruddhi" />
   </a>
 </p>
 
