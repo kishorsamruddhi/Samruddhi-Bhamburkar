@@ -3,15 +3,16 @@
 
 <p align="center">Thank you ❤️ for visiting my profile. Your presence is greatly appreciated.</p>
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=kishorsamruddhi&label=Profile%20views&color=0e75b6&style=flat" alt="kishorsamruddhi" />
 </p>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=kishorsamruddhi&theme=dark&no-frame=true&rank=beginner" alt="kishorsamruddhi"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=kishorsamruddhi&theme=dark&no-frame=true&rank=advanced&column=7" alt="kishorsamruddhi"/>
   </a>
 </p>
+
 - ## 💫 About Me:
 🔭 I'm currently building an impactful social media platform that connects people and empowers them with meaningful interactions, fostering growth, collaboration, and knowledge sharing.<br>
 🚧 Actively seeking collaboration opportunities on MERN stack projects, real-time applications, AI-integrated solutions, and contributions to open-source initiatives.<br>
