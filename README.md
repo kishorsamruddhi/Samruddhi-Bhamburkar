@@ -3,7 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arvinddhage&label=Profile%20views&color=0e75b6&style=flat" alt="arvinddhage" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arvinddhage" alt="arvinddhage" /></a> </p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=arvinddhage&theme=dark&no-frame=true&rank=beginner" alt="arvinddhage"/>
+  </a>
+</p>
+
 
 - ## 💫 About Me:
 🔭 I'm currently building an impactful social media platform that connects people and empowers them with meaningful interactions, fostering growth, collaboration, and knowledge sharing.<br>
@@ -29,9 +34,29 @@
 ---
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=samruddhi-bhamburkar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>  
-![](https://github-readme-streak-stats.herokuapp.com/?user=samruddhi-bhamburkar&theme=dark&hide_border=false)<br/>  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=samruddhi-bhamburkar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_title=true&count_private=true)](https://github.com/YOUR_GITHUB_USERNAME)
+
+## 🌍 Top Languages
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_title=true)](https://github.com/YOUR_GITHUB_USERNAME)
+
+## 🔥 GitHub Streak
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical)](https://github.com/YOUR_GITHUB_USERNAME)
+
+## 📊 GitHub Activity Graph
+
+[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=YOUR_GITHUB_USERNAME&theme=github)](https://github.com/YOUR_GITHUB_USERNAME)
+
+## 🏆 Commit Graph
+
+[![GitHub Commit Graph](https://github-readme-activity-graph.cyclic.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=ffffff&color=333333&line=000000&point=ff0000)](https://github.com/YOUR_GITHUB_USERNAME)
+
+## 👀 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME)
+
 
 ---
 
